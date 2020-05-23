@@ -2,7 +2,7 @@ title: Collegeville Workshops Home Page
 description: > # this means to ignore newlines until "baseurl:"
   Home page for Collegeville Workshops on Scientific Software.
 permalink: ':title/'
-baseurl: "Workshops" # the subpath of your site, e.g. /blog
+baseurl: "/Workshops" # the subpath of your site, e.g. /blog
 url: "https://collegeville.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 social-google: citations?user=3o3TleEAAAAJ&hl=en
