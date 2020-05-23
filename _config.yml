@@ -1,0 +1,30 @@
+title: Collegeville Workshops Home Page
+description: > # this means to ignore newlines until "baseurl:"
+  Home page for Collegeville Workshops on Scientific Software.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://collegeville.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Michael Heroux # add your name
+author-img: KreigleLake.jpg # add your photo
+about-author: Senior Scientist at Sandia National Laboratories and Scientist in Residence at St. John's University. # add description
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
