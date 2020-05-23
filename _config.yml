@@ -7,9 +7,9 @@ url: "https://collegeville.github.io" # the base hostname & protocol for your si
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Michael Heroux # add your name
+author: Collegevill Research Group # add your name
 author-img: KreigleLake.jpg # add your photo
-about-author: Senior Scientist at Sandia National Laboratories and Scientist in Residence at St. John's University. # add description
+about-author: Dedicated to the R & D of Scientific Software. # add description
 
 # Disqus
 discus-identifier: # add your discus identifier
