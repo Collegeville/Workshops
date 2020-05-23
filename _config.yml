@@ -5,11 +5,11 @@ permalink: ':title/'
 baseurl: "/Workshops" # the subpath of your site, e.g. /blog
 url: "https://collegeville.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
-social-google: citations?user=3o3TleEAAAAJ&hl=en
-social-stack-overflow: users/4480512/michael-heroux
-social-github: maherou # add your Github handle
-social-linkedin: michael-heroux-763590 # add your Linkedin handle
-social-email: maherou@gmail.com # add your Email address
+social-google: # citations?user=3o3TleEAAAAJ&hl=en
+social-stack-overflow: # users/4480512/michael-heroux
+social-github: Collegeville # add your Github handle
+social-linkedin: # michael-heroux-763590 # add your Linkedin handle
+social-email: mheroux@csbsju.edu # add your Email address
 
 # Author Settings
 author: Collegeville Research Group # add your name
